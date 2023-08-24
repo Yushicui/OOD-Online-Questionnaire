@@ -32,3 +32,6 @@ The Online Questionnaire Design project focuses on creating a robust system for 
 - Modularity: The design emphasizes modularity, with distinct classes for each question type, making the system easy to extend and maintain.
 - Scalability: The structure allows for potential additions of more question types or modification of existing ones with minimal changes to other parts of the system.
 - Ordering Mechanism: The Question Bank's ordering mechanism provides an efficient way to assemble questionnaires, ensuring that they follow a logical and consistent structure.
+
+### **Summary**<br>
+The Online Questionnaire project is a holistic solution for those seeking to obtain feedback in a structured and efficient manner. Its wide range of tools ensures that survey creation is a breeze, distribution is widespread, and data analysis is insightful.
